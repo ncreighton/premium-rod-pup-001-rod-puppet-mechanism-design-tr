@@ -1,0 +1,2 @@
+# premium-rod-pup-001-rod-puppet-mechanism-design-tr
+Tired of losing track of your rod puppet mechanisms across scattered sketches, notes, and part files? Design iterations pile up, rod placements get forgotten, and each new puppet starts from scratch.  The Rod Puppet Mechanism Design Tracker is the first Notion template built specifically to document and evolve your rod puppet engineering. It turns
